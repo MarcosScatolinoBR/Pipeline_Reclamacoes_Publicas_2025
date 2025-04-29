@@ -1,5 +1,11 @@
 # 📊 Pipeline de Análise de Reclamações Públicas – Logística & E-commerce (Mar/2025)
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Python](https://img.shields.io/badge/Python-3.12-blue.svg)
+![Status: Concluído](https://img.shields.io/badge/Status-Concluído-brightgreen.svg)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Aplicado-orange.svg)
+![Data Analysis](https://img.shields.io/badge/Análise%20de%20Dados-Ativo-blue.svg)
+
 Projeto de análise de dados públicos focado no setor de Logística e E-commerce, utilizando técnicas de Machine Learning, NLP e Visualização de Dados para extrair insights estratégicos a partir de reclamações de consumidores.
 
 O objetivo é construir um pipeline robusto que percorre todas as etapas de um projeto real: desde o pré-processamento dos dados, análise exploratória, clusterização de problemas, classificação supervisionada, até a geração de relatórios automáticos e insights estratégicos para tomada de decisão.
